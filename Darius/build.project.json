@@ -1,0 +1,17 @@
+{
+    "name": "Darius",
+    "tree": {
+        "$className": "DataModel",
+
+        "ReplicatedStorage":{
+            "darius":{
+                "$path":"src/darius"
+            }
+        },
+        "StarterGui":{
+            "darius":{
+                "$path":"src/darius.client.luau"
+            }
+        }
+    }
+}
